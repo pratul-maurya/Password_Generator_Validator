@@ -3,7 +3,7 @@ import string
 
 print('\nWelcome to Password generator!')
 
-length = int(input('\nEnter the length of password: '))
+length = int(input('\nEnter the desired length of password: '))
 
 if (length>=10 and length<=25):
     lower = string.ascii_lowercase
@@ -18,4 +18,4 @@ if (length>=10 and length<=25):
     print(password)
     
 else:
-    print("Error! Password should between 10 and 25 characters long")
+    print("Error! The password should between 10 and 25 characters long")
