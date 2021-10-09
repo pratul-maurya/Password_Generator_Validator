@@ -1,5 +1,5 @@
 # Password_Generator_Validator
-Python Programs to generate a strong and random password and validate existing password
+Python Programs to generate a strong and random password and validate existing password using the following rules.
 
 ## Rules of Password
 at least 1 uppercase character (A-Z)
